@@ -1,1 +1,4 @@
-# admin-panel
+# SolarPath+ | Admin Panel
+
+---
+
