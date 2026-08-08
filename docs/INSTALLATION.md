@@ -59,4 +59,4 @@ REMINDER: The only thing you will have to do is to run the build.sh/build.bat fi
 2. Static Paths and File Names
 - If you have a file on the exact directory and has the exact name that was chosen inside the shell script, it will override your old file or throw an error. 
 - You can solve this problem by changing the names or the directories not only inside of the shell scripts but in the source code as well. This is one of the other reasons why we do not release binary blobs but release scripts for intallations. 
-- We will also try to solve this problem from the repository side for users not to struggle changing the names manually. There are two correct solutions here. 
+- We will also try to solve this problem from the repository side for users not to struggle changing the names manually. There are two easy solutions here. We can both add a mechanism inside the scripts which will search for the files and the directories on your system and send the source code these as parameters or add the same but the mechanism will ask the users the paths and the file names. 
