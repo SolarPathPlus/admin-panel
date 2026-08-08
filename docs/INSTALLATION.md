@@ -52,4 +52,7 @@ REMINDER: The only thing you will have to do is to run the build.sh/build.bat fi
 ---
 
 ### The Main Problems You May Encounter
-
+1. Packages
+- The scripts use static package names. If you do not use the distribution but one based on another, the package names may be different on the different repositories that are on different operating systems or it may be because of the release differences.
+- You can solve this problem by searching the accurate name of the package by using a command that is compatible with your distribution's package manager. 
+- EX: If you cannot find the package which refers to Python, you can use "zypper se python" and find the accurate name of the Python package on openSUSE. 
