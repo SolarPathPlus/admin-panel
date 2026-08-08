@@ -44,3 +44,12 @@ We will start accepting contributions and collaborations starting from July, 202
 ### Packages
 
 We use C++ and Fortran on administrator panel. All of the software that belongs to SolarPath+ will run locally and p2p. Just because there will not be a server between the devices and the users, you will have to maintain your system. You can check the packages inside the folder that hash the name of the operating system that is installed on your PC. You should chase for the code under the command line: "Packages". Using ctrl + f will be ĥelpful.
+
+---
+
+REMINDER: The only thing you will have to do is to run the build.sh/build.bat file after cloning the repository. If you are not curious, you do not have to read a script or run every script one by one. But you may have to change someting if something does not work properly. 
+
+---
+
+### The Main Problems You May Encounter
+
