@@ -43,4 +43,4 @@ We will start accepting contributions and collaborations starting from July, 202
 
 ### Packages
 
-We use C++ and Fortran on administrator panel. All of the software that belongs to SolarPath+ will run locally and p2p. Just because there will not be a server between the devices and the users, you will have to maintain your system. You can check the packages inside the folder that 
+We use C++ and Fortran on administrator panel. All of the software that belongs to SolarPath+ will run locally and p2p. Just because there will not be a server between the devices and the users, you will have to maintain your system. You can check the packages inside the folder that hash tge name of the operating system that is installed on your PC. 
