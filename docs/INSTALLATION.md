@@ -24,7 +24,8 @@ We do NOT sell any product or service. We release the guides for the new users t
 2. Also, here are the operating systems we recommend: 
 - Windows -> Windows 10 or higher.
 - macOS -> Big Sur or higher.
--  
+- Linux -> Debian 12 or higher, Fedora 43 or higher, openSUSE 15.6 or higher, Slackware 14.2 or higher, all of the rolling release distributions.
+- BSD -> FreeBSD 15.0 or higher, NetBSD 10 or higher,  7.8 or .
 
 
 ---
