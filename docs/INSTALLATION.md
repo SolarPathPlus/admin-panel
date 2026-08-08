@@ -18,3 +18,23 @@ We do NOT sell any product or service. We release the guides for the new users t
 
 ## Requirements
 
+### System
+
+1. There is no matter if you run the program on a different operating system but we release scripts and guides on Windows, macOS, Linux and BSD operating - systems. You can create your own script for building and add documentation. 
+2. Also, here are the operating systems we recommend: 
+- Windows -> Windows 10 or higher.
+- macOS -> Big Sur or higher.
+-  
+
+
+---
+
+### Contributing
+
+We will start accepting contributions and collaborations starting from July, 2027.
+
+---
+
+### Packages
+
+We use C++ and Fortran on administrator panel. All of the software that belongs to SolarPath+ will run locally and p2p. Just because there will not be a server between the devices and the users, you will have to maintain your system. You can check the packages inside the folder that 
